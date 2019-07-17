@@ -33,9 +33,6 @@ public class DriverControllerTest {
     private MockMvc mockMvc;
     private JacksonTester<Driver> json;
 
-    breaking the test
-    attempt to make it better
-    sfsd
 
     @Before
     public void setup() {
